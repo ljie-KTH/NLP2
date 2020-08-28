@@ -1,3 +1,9 @@
 i am a. This is my code
+<<<<<<< HEAD
 aaaaaaaaaaaaa 
 I will make some changes
+
+
+bbbbbbbbbbbbbbb
+aaaaaaaaaaaaa
+
